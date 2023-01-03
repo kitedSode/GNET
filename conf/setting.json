@@ -1,0 +1,6 @@
+{
+  "Name": "GNET V0.1",
+  "Host": "127.0.0.1",
+  "TcpPort":8080,
+  "MaxConn": 3
+}
